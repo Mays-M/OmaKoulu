@@ -1,0 +1,16 @@
+{
+    "name": "Mays-M/OmaKoulu",
+    "autoload": {
+        "psr-4": {
+            "Mays-M\\Oma Koulu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oma Koulu"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
